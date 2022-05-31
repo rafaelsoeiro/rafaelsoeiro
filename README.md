@@ -2,7 +2,7 @@ Olá! Sou o Rafael Soeiro.
 
 - 🔭 Atualmente estou trabalhando com Front=end
 - 🌱 Estudando JavaScript - React.js | Vue.js
-- 📫 How to reach me: rafaelssoeiro@gmail.com
+- 📫 Como me contatar: rafaelssoeiro@gmail.com
 
 - ⚡ Fun fact: 
 <div align="center">
