@@ -1,8 +1,10 @@
+<div align="right">
 Olá! Sou o Rafael Soeiro.
 
 - 🔭 Atualmente estou trabalhando com Front-end
 - 🌱 Estudando Javascript - React.js 
 - 📫 Como me contatar: rafaelssoeiro@gmail.com
+</div>
 
 - ⚡ Fun fact: 
 <div style="display: inline_block" align="right">
