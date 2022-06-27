@@ -6,7 +6,7 @@ Olá! Sou o Rafael Soeiro.
 
 - ⚡ Fun fact: 
 <div  align="center">
-  <a href="https://github.com/rafaelsoeiro"> - ⚡ Fun fact:  </a>
+  <a href="https://github.com/rafaelsoeiro">
   <img width="375em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
 </div>
