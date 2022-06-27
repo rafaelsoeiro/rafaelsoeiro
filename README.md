@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 Olá! Sou o Rafael Soeiro.
 
 - 🔭 Atualmente estou trabalhando com Front-end
