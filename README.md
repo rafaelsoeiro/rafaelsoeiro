@@ -11,6 +11,7 @@ Olá! Sou o Rafael Soeiro.
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&langs_count=7&theme=dracula"/>
 
   <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
 </div>
 
 <div style="display: inline_block"><br>
