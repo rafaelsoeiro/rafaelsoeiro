@@ -1,19 +1,17 @@
-<div align="left">
 Olá! Sou o Rafael Soeiro.
 
 - 🔭 Atualmente estou trabalhando com Front-end
 - 🌱 Estudando Javascript - React.js 
 - 📫 Como me contatar: rafaelssoeiro@gmail.com
-</div>
 
 - ⚡ Fun fact: 
-<div style="display: inline_block" align="right">
-  <a href="https://github.com/rafaelsoeiro">
+<div  align="center">
+  <a href="https://github.com/rafaelsoeiro"> - ⚡ Fun fact:  </a>
   <img width="375em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
 </div>
 
-<div style="display: flex">
+<div style="display: inline_block">
   <br>
   - 🛠 Stacks 
 
