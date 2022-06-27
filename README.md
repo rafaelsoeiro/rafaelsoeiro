@@ -13,7 +13,7 @@ Olá! Sou o Rafael Soeiro.
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
 </div>
 
-<div style="display: inline_block">
+<div style="display: flex">
   <br>
   - 🛠 Stacks 
 
