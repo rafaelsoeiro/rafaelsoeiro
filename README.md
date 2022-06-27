@@ -7,10 +7,7 @@ Olá! Sou o Rafael Soeiro.
 - ⚡ Fun fact: 
 <div align="center">
   <a href="https://github.com/rafaelsoeiro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&langs_count=7&theme=dracula"/>
-
-  <img width="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
+  <img width="250em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
   <img width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
 </div>
 
