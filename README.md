@@ -8,8 +8,8 @@ Olá! Sou o Rafael Soeiro.
 <div  align="center">
   <a href="https://github.com/rafaelsoeiro">
   <img width="540em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=vision-friendly-dark" alt="rafaelsoeiro's stats"/>
-  <img width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
-    <img width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
+  <img width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&lt&theme=vision-friendly-dark" alt="rafaelsoeiro's most languages"/>
+  
 </div>
 
 <div style="display: inline_block">
