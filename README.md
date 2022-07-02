@@ -13,8 +13,7 @@
 
 <div style="display: inline_block">
   <br>
-  - 🛠 Stacks 
-
+  - 🛠 Stacks  
   <br/>
   <br/>
   
