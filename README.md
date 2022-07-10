@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando com Front-end
 - 🌱 Estudando Javascript - React.js 
 - 📫 Como me contatar: rafaelssoeiro@gmail.co
-<div align='center'>
+<div>
   <a href="https://www.linkedin.com/in/rafael-soeiro-a8889a193/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2Fin%2Frafael--soeiro%2F-blue"></a> 
   <a href="https://www.linkedin.com/in/rafael-soeiro-a8889a193/" target="_blank"><img src="https://img.shields.io/badge/Email-rafaelssoeiro%40gmail.com-red" target="_blank"></a> 
 </div>
