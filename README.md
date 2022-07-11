@@ -22,7 +22,7 @@
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
@@ -31,6 +31,4 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br/>
-<br/>
-<br/>
+
