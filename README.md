@@ -1,7 +1,7 @@
 ## Olá! Sou o Rafael Soeiro.
 
-- 👨‍💻 Atualmente trabalho como Front-end Developer
-- 🌱 Estudando Javascript - React.js 
+- 👨‍💻 Atuo como Front-end Developer
+- 🌱 Estudando Javascript + React.js 
 - 📫 Como me contatar 👇
 <div>
   <a href="https://www.linkedin.com/in/rafael-soeiro-a8889a193/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%2Fin%2Frafael--soeiro%2F-blue"></a> 
