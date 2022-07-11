@@ -1,6 +1,6 @@
 ## Olá! Sou o Rafael Soeiro.
 
-- 👨‍💻 Atualmente estou atuando como Front-end Developer
+- 👨‍💻 Atualmente trabalho como Front-end Developer
 - 🌱 Estudando Javascript - React.js 
 - 📫 Como me contatar 👇
 <div>
