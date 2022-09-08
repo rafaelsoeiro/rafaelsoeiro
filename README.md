@@ -5,6 +5,7 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764abc)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 📫 Como me contatar 👇
 <div>
   <a href="https://www.linkedin.com/in/rafael-soeiro/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%2Fin%2Frafael--soeiro%2F-blue"></a> 
@@ -26,7 +27,6 @@
 <h3>⚙️ &nbsp;Back-end e Databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
