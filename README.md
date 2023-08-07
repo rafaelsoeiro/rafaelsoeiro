@@ -5,11 +5,12 @@
 - 👨‍💻 Atuo como Front-end Developer
 - 🧑‍🎓 Academico de Sistemas da Informação
 - 🌱 Estudando 👇
+<div style="display: inline_block">
 
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764abc)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-<br/>
-<br/>
+![MongoDB](https://img.shields.io/badge/redux-43853D?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/mongo-6b21a8?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
+
 - 📫 Como me contatar 👇
 <div>
   <a href="https://www.linkedin.com/in/rafael-soeiro/" target="blank"><img src="https://img.shields.io/badge/Linkedin-%2Fin%2Frafael--soeiro%2F-blue"></a> 
