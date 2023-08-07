@@ -35,6 +35,6 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 <div  align="center">
 
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=dracula&count_private=true)
+  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=tokyonight&count_private=true)
 </div>
 
