@@ -33,12 +33,12 @@
 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
-<div style="display:flex, flex-direction:colum" align="center">
+<div style="display:flex" align="center">
 
 <!-- ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=tokyonight&count_private=true) -->
-<img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=tokyonight&count_private=true"/>
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=rafaelsoeiro&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img style="width:60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=tokyonight"/>
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsoeiro&layout=compact&theme=tokyonight"/>
 
 </div>
 
