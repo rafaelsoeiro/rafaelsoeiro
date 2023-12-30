@@ -3,13 +3,11 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Rafael Soeiro
 =====================================================================================================================================
 
-Software developer 
-------------------
-
 Atuo como desenvolvedor de software com foco no Front-end sempre em busca criar soluções inovadoras e funcionais com alta qualidade.
 
-* 🧑‍🎓 Academico de Sistemas da Informação
 * 🌍 Moro em São Luis, MA
+* 👨‍💻 Front-end Developer
+* 🧑‍🎓 Academico de Sistemas da Informação
 * ✉️  Voçê pode me contatar [rafaelssoeiro@gmail.com](mailto:rafaelssoeiro@gmail.com)
 
 ### Skills
