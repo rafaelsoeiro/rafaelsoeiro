@@ -5,10 +5,10 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Atuo como desenvolvedor de software com foco no Front-end sempre em busca criar soluções inovadoras e funcionais com alta qualidade.
 
-* 🌍 Moro em São Luis, MA
+* 🌍 São Luis, MA
 * 👨‍💻 Front-end Developer
 * 🧑‍🎓 Academico de Sistemas da Informação
-* ✉️  Voçê pode me contatar [rafaelssoeiro@gmail.com](mailto:rafaelssoeiro@gmail.com)
+* ✉️  Você pode me contatar [rafaelssoeiro@gmail.com](mailto:rafaelssoeiro@gmail.com)
 
 ### Skills
 
